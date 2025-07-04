@@ -1,0 +1,2 @@
+import{j as e}from"./index-BbHmWxeT.js";import{A as r}from"./AdminLayout-BCjfDwtc.js";import"./package-RgcQhqxj.js";import"./tag-CJLCSPUx.js";import"./users-CoztkOlz.js";const d=()=>e.jsx(r,{children:e.jsxs("div",{className:"p-6",children:[e.jsx("h1",{className:"text-2xl font-bold mb-6",children:"Orders Management"}),e.jsx("div",{className:"bg-white rounded-lg shadow p-6",children:e.jsx("p",{className:"text-gray-600",children:"Orders management interface will be implemented here."})})]})});export{d as default};
+//# sourceMappingURL=OrdersPage-C8ZMq7_x.js.map
